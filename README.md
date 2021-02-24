@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinthia3301andrad&count_private=true&theme=synthwave)
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Curso Ciência da computação - UFC.
 Sou Desenvolvedora Front-end Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando no [Insight Lab](https://insightlab.ufc.br/) como bolsista.
