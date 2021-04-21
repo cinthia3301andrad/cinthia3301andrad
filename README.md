@@ -7,7 +7,7 @@
 Curso Ciência da computação - UFC.
 Sou Desenvolvedora Front-end Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando no [Insight Lab](https://insightlab.ufc.br/) como bolsista.
+ :rocket:  &nbsp; Estou trabalhando no [Insight Lab](https://insightlab.ufc.br/) como bolsista e lá desenvolvo projetos de Transformação digital. <br/>
   :rocket:  &nbsp; Desenvolvedora front-end do projeto [Healthy Home](https://healthyhome.com.br).
  <br/> :purple_heart: &nbsp; Busco conhecimento, e um dia poder ajudar as pessoas com transformação digital s2.
  <br/> :computer: &nbsp; Minha stack: ,JavaScript, HTML, ReactJS, TypeScript, CSS, Less & Scss/Sass.
