@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Curso Ciência da computação - UFC.
-Sou Desenvolvedora Front-end Developer :computer:
+Sou Desenvolvedora Front-end :computer:
 
  :rocket:  &nbsp; Estou trabalhando no [Insight Lab](https://insightlab.ufc.br/) como bolsista e lá desenvolvo projetos de Transformação digital. <br/>
   :rocket:  &nbsp; Desenvolvedora front-end do projeto [Healthy Home](https://healthyhome.com.br).
