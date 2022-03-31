@@ -12,11 +12,12 @@
 Curso Ciência da computação - UFC.
 Sou Desenvolvedora Front-end :computer:
 
- :rocket:  &nbsp; Estou trabalhando no [Insight Lab](https://insightlab.ufc.br/) como Desenvolvedora front-end e lá desenvolvo projetos de Transformação digital para o estado do Ceará. <br/>
+ :rocket:  &nbsp; Estou trabalhando no [Insight Lab](https://insightlab.ufc.br/) como Líder Tecnica front-end e lá desenvolvo e lidero projetos de Transformação digital para o estado do Ceará. <br/>
+   :rocket:  &nbsp; Desenvolvedora front-end pleno no Banco Modal. <br/> 
   :rocket:  &nbsp; Desenvolvedora front-end do projeto [Healthy Home](https://healthyhome.com.br).
  <br/> :purple_heart: &nbsp; Busco conhecimento, e um dia poder ajudar as pessoas com transformação digital s2.
  <br/> :computer: &nbsp; Minha stack: JavaScript, TypeScript, HTML, ReactJS, ReactNative, CSS, Less & Scss/Sass.
- <br/> 💬  &nbsp; Sobre mim: Sou apaixonada por tecnologia!!. Ahh, tenho um instagram de estudos onde mostro minha rotina de estudos lá: [@study_bemboss](https://www.instagram.com/study_bemboss/)
+ <br/> 💬  &nbsp; Sobre mim: Sou apaixonada por tecnologia!!.
  <br/> :email: &nbsp; Entre em contato comigo: [![Meu Linkedin]](https://www.linkedin.com/in/cinthia-andrade-866a501aa/) 
 | 
 [![Meu Gmail]](mailto:cinthiaadm15@gmail.com)
